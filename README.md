@@ -8,7 +8,7 @@ Servidor público na Câmara Municipal de Itapeva/SP e professor no Centro Paula
 
 Sou formado em Engenharia Industrial Madeireira e em Análise e Desenvolvimento de Sistemas, com mestrado em Engenharia Mecânica e especializações em Banco de Dados e Informática na Educação. Essa trajetória multidisciplinar me permite transitar entre o desenvolvimento de sistemas, a pesquisa acadêmica e o ensino técnico.
 
-Na Câmara Municipal de Itapeva, atuo desde 2002, onde passei por funções como técnico em informática, programador web, pregoeiro e, atualmente, coordenador de projetos. No Centro Paula Souza, sou professor titular desde 2011, ministrando disciplinas em cursos técnicos de Informática, Informática para Internet, Móveis, Industrial Madeireiro e Eletrotécnica.
+Na Câmara Municipal de Itapeva, atuo desde 2002, onde passei por funções como técnico em informática, pregoeiro e, atualmente, programador web. No Centro Paula Souza, sou professor titular desde 2011, ministrando disciplinas em cursos técnicos de Informática, Informática para Internet, Móveis, Industrial Madeireiro e Eletrotécnica.
 
 ## Formação acadêmica
 
