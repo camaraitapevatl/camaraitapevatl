@@ -23,7 +23,7 @@ Na Câmara Municipal de Itapeva, atuo desde 2002, onde passei por funções como
 
 ## Atuação profissional
 
-- **Coordenador de Projetos** na Câmara Municipal de Itapeva (2021 até o momento)
+- **Coordenador de Projetos** no Centro Paula Souza (2021 até o momento)
 - **Professor Titular** no Centro Paula Souza, ETEC Dr. Demétrio Azevedo Júnior (2011 até o momento)
 - **Programador Web** na Câmara Municipal de Itapeva (2007 até o momento)
 
